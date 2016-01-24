@@ -79,17 +79,7 @@ nav ul li:hover > ul {
     margin-left: auto;
     margin-right: auto;
 }
-.logo:hover {
-    animation: spin 1.5s linear infinite;
-}
-@keyframes spin {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(720deg);
-    }
-}
+
 /*END OF NAV*/
 /*WOW STUFF*/
 
